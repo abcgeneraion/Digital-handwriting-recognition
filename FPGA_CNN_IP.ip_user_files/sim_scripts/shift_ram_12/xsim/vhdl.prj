@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../FPGA_CNN_IP.srcs/sources_1/ip/shift_ram_12/sim/shift_ram_12.vhd" \
+
+nosort

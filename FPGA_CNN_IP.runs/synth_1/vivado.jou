@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Dec 28 22:04:58 2021
+# Process ID: 29276
+# Current directory: C:/Users/Epoch/Desktop/FPGA_CNN_IP/FPGA_CNN_IP/FPGA_CNN_IP.runs/synth_1
+# Command line: vivado.exe -log cnn_struct.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cnn_struct.tcl
+# Log file: C:/Users/Epoch/Desktop/FPGA_CNN_IP/FPGA_CNN_IP/FPGA_CNN_IP.runs/synth_1/cnn_struct.vds
+# Journal file: C:/Users/Epoch/Desktop/FPGA_CNN_IP/FPGA_CNN_IP/FPGA_CNN_IP.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cnn_struct.tcl -notrace

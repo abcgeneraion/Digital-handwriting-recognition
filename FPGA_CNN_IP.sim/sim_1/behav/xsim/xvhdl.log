@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Epoch/Desktop/FPGA_CNN_IP/FPGA_CNN_IP/FPGA_CNN_IP.srcs/sources_1/ip/shift_ram_12/sim/shift_ram_12.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'shift_ram_12'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Epoch/Desktop/FPGA_CNN_IP/FPGA_CNN_IP/FPGA_CNN_IP.srcs/sources_1/ip/shift_ram_28/sim/shift_ram_28.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'shift_ram_28'

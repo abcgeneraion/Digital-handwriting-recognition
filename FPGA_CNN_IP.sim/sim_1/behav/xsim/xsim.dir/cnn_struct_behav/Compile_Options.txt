@@ -1,0 +1,1 @@
+-wto "fb957f4b9d984106ab2324ab511a8ee7" --incr --debug "typical" --relax --mt "2" -L "blk_mem_gen_v8_4_2" -L "xil_defaultlib" -L "xbip_utils_v3_0_9" -L "c_reg_fd_v12_0_5" -L "c_mux_bit_v12_0_5" -L "c_shift_ram_v12_0_12" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "cnn_struct_behav" "xil_defaultlib.cnn_struct" "xil_defaultlib.glbl" -log "elaborate.log" 
